@@ -1,5 +1,7 @@
 # Khushal Noori
 
+![Khushal Noori](./images/Pic1.JPG)  <!-- Adjust the path as per your directory structure -->
+
 ## IT Specialist @ Axxeum, Inc. | Computer Science
 
 ### Contact Information
