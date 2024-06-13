@@ -70,7 +70,6 @@ I have pursued a bachelor's degree in computer science with a minor in mathemati
 - **Professional Interests:** Enterprise Resource Planning, Costpoint, Service Automation, Cybersecurity, DoD Procurement and Supply Chain Management.
 
 ### Contributions
-- **Open Source Contributions:**
 - Contributed to the UAH ACM student chapter's official website by developing and maintaining the source code.
 - Implemented and refined the website structure, adhering to best practices for HTML, CSS, and JavaScript.
 - Created personal project folders following the standard format, ensuring organized and efficient management of web assets.
