@@ -64,7 +64,7 @@ I have pursued a bachelor's degree in computer science with a minor in mathemati
 - **CompTIA Network+ (in progress)**
 
 ### Interests
-- **Hobbies:** Swimming, Hiking, Basketball, and Working out.
+- **Hobbies:** Swimming, Hiking, and Basketball.
 - **Professional Interests:** Enterprise Resource Planning, Service Automation, and Supply Chain Management.
 
 ### Contributions
