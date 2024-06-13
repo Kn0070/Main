@@ -67,11 +67,14 @@ I have pursued a bachelor's degree in computer science with a minor in mathemati
 
 ### Interests
 - **Hobbies:** Swimming, Hiking, and Basketball.
-- **Professional Interests:** Enterprise Resource Planning, Service Automation, and Supply Chain Management.
+- **Professional Interests:** Enterprise Resource Planning, Costpoint, Service Automation, Cybersecurity, DoD Procurement and Supply Chain Management.
 
 ### Contributions
-- **Open Source Contributions:** Description of contributions.
-
+- **Open Source Contributions:**
+- Contributed to the UAH ACM student chapter's official website by developing and maintaining the source code.
+- Implemented and refined the website structure, adhering to best practices for HTML, CSS, and JavaScript.
+- Created personal project folders following the standard format, ensuring organized and efficient management of web assets.
+- Submitted and reviewed pull requests to the Beta branch, collaborating with other members to ensure high-quality updates.
+- Provided mentorship and guidance on project setup and web development techniques to fellow members.
 ---
-
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/khushal-noori-537763156) for collaboration or inquiries.
