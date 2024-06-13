@@ -35,7 +35,7 @@ I have pursued a bachelor's degree in computer science with a minor in mathemati
 #### Axxeum, Inc.
 - **IT Help Desk Support Specialist/Supply Chain Management** (August 2018 - Present)
   - Location: Huntsville, Alabama, United States
-- **Logistician** (August 2021 - May 2023)
+- **Supply Chain Management** (August 2021 - May 2023)
   - Location: Kabul, Afghanistan
 - **HKIA Logistics Lead** (July 2019 - April 2021)
   - Location: Kabul, Afghanistan
@@ -45,11 +45,11 @@ I have pursued a bachelor's degree in computer science with a minor in mathemati
 #### Amentum
 - **Linguist/Logistician** (July 2016 - August 2018)
   - Location: Kabul Province, Afghanistan
-  - Responsibilities: Warehouse coordination, shipping and receiving under US aviation standards, inventory management, translation of MD530 training materials
+  - Responsibilities: Meetings coordination, shipping and receiving under US aviation standards, inventory management, translation of MD530 training materials
 
 ### Education
 - **The University of Alabama in Huntsville**
-  - Bachelor's degree, Mathematics and Computer Science (January 2022 - December 2023)
+  - Bachelor's degree, Computer Science with Mathematics Minor (January 2022 - December 2023)
 - **Kardan University**
   - Bachelor's degree, Computer Science (2018 - 2021)
   - Diploma, English Language and Literature, General (2016 - 2017)
