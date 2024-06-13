@@ -2,7 +2,7 @@
 
 ![Noori](./Images/Pic1.JPG)
 
-## IT Specialist @ Axxeum, Inc. | Computer Science
+## IT Specialist @ Axxeum, Inc. | Computer Science | Mathematics
 
 ### Contact Information
 - Email: [kn0045@uah.edu](mailto:kn0045@uah.edu)
