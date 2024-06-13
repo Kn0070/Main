@@ -1,6 +1,6 @@
 # Khushal Noori
 
-![Khushal Noori](./Images/Pic 1.JPG)  <!-- Adjust the path as per your directory structure --> 
+![Khushal Noori](.Main/Images/Pic1.JPG)  <!-- Adjust the path as per your directory structure --> 
 
 ## IT Specialist @ Axxeum, Inc. | Computer Science
 
