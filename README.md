@@ -56,8 +56,8 @@ I have pursued a bachelor's degree in computer science with a minor in mathemati
 - **Osman Waris Private High School**
   - High School Graduate, General (2004 - 2015)
 
-### Projects
-- **Robot Vacuum Simulation Project(#)**: The Robot Vacuum Simulation Project is a comprehensive tool designed to evaluate and enhance robot vacuum algorithms. This simulation allows users to create customizable home environments, configure various vacuum attributes, and run real-time simulations to analyze performance. Users can adjust house layouts, vacuum paths, and observe cleaning efficiency through detailed visual and analytical results. The project, built using Unity, provides a platform for testing and improving both software and hardware aspects of robot vacuums, making it easier to refine cleaning algorithms and optimize performance in diverse settings.
+### Project
+- **Robot Vacuum Simulation Project**: The Robot Vacuum Simulation Project is a comprehensive tool designed to evaluate and enhance robot vacuum algorithms. This simulation allows users to create customizable home environments, configure various vacuum attributes, and run real-time simulations to analyze performance. Users can adjust house layouts, vacuum paths, and observe cleaning efficiency through detailed visual and analytical results. The project, built using Unity, provides a platform for testing and improving both software and hardware aspects of robot vacuums, making it easier to refine cleaning algorithms and optimize performance in diverse settings.
 
 ### Certifications
 - **CompTIA A+ (in progress)**
