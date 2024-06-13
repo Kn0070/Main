@@ -1,6 +1,6 @@
 # Khushal Noori
 
-![Noori](./Images/Pic1.JPG)
+![Noori](./images/Pic1.JPG)
 ## IT Specialist @ Axxeum, Inc. | Computer Science
 
 ### Contact Information
