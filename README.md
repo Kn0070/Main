@@ -7,7 +7,7 @@ I'm Khushal Noori, a computer science major and minor mathematics with a passion
 - 😄 Strong interest in programming and problem-solving
 - 👯 Actively engaged in open-source projects and cross-collaboration
 
-### 💋 How to reach me:
+###  How to reach me:
 - Email: knoori@university.edu
 - LinkedIn: [K Noori](https://www.linkedin.com/in/knoori)
 
