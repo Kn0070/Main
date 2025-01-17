@@ -1,79 +1,70 @@
-# Khushal Noori
+# HeaderImage
 
-![Noori](./Images/Pic1.JPG)
+## Hi there 👋
+I'm K Noori, a computer science major with a passion for problem-solving and programming.
 
-## IT Specialist @ Axxeum, Inc. | Computer Science | Mathematics
+### 🤟 About Me
+- 🌱 Computer Science Major with a Minor in Mathematics
+- 🔭 Proficient in C#, HTML, Python, CSS, JavaScript, and Java
+- 😄 Strong interest in programming and problem-solving
+- 👯 Actively engaged in open-source projects and cross-collaboration
 
-### Contact Information
-- Email: [kn0045@uah.edu](mailto:kn0045@uah.edu)
-- LinkedIn: [Khushal Noori](https://www.linkedin.com/in/khushal-noori-537763156)
+### 💋 How to reach me:
+- Email: knoori@university.edu
+- LinkedIn: [K Noori](https://www.linkedin.com/in/knoori)
 
-### Summary
-As an IT Support Specialist and Supply Chain Lead at Axxeum, I provide aviation and aerospace solutions to clients worldwide. I troubleshoot technical issues, ensure customer satisfaction, and coordinate shipping and logistics for multiple international and domestic contracts. I have improved operational efficiency and quality, delivered timely and accurate reports, and handled complex and sensitive data.
+### ⚡ Fun fact: 
+I enjoy exploring new programming languages and frameworks in my free time.
 
-I have pursued a bachelor's degree in computer science with a minor in mathematics at The University of Alabama in Huntsville, after completing computer science courses at Kardan University. I have a strong background in various programming languages, Cisco routing/switching, operating systems, and Microsoft Office Suite, which I apply to my current role and academic projects. I am fluent in English, Dari, and Pashto, and have experience as an interpreter and linguist. I am motivated by learning new skills and solving complex problems.
+## 🌟 Skill Set
+Here are some key skills and technologies that I have experience with:
 
-### Skills
-- **Programming Languages:** JavaScript, Python, C++
-- **Technologies:** Infor Enterprise Resource Planning (ERP), Service Automation, Microsoft Office Suite
-- **Languages:** Pashto (Native), Dari (Native), English (Professional Working), Persian (Full Professional)
+### C#
+- Developed "CS499Vacuum," a repository focused on vacuum simulations using C#.
+- Demonstrates knowledge of building Windows applications.
 
-### Languages and Tools
+### HTML/CSS/JavaScript
+- Contributed to various repositories utilizing web development technologies.
+- Built user interfaces and added interactive functionality.
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+### Python
+- Created the repository "30-Days-Of-Python," showcasing my interest and expertise in Python programming.
+- Implemented various projects and exercises using Python.
 
-### Experience
+### Java
+- Utilized Java in personal projects, showcasing a diverse skill set.
+- Worked on object-oriented projects and applications using Java.
 
-#### Axxeum, Inc.
-- **IT Help Desk Support Specialist/Supply Chain Management** (August 2021 - Present)
-  - Location: Huntsville, Alabama, United States
-- **Supply Chain Management** (August 2021 - May 2023)
-  - Location: Kabul, Afghanistan
-- **HKIA Logistics Lead** (July 2019 - April 2021)
-  - Location: Kabul, Afghanistan
-- **Logistician/Linguist** (August 2018 - July 2019)
-  - Location: Kabul, Afghanistan
+## 📊 GitHub Stats
+![Github Stats](URL-to-Github-Stats)
 
-#### Amentum
-- **Linguist/Logistician** (July 2016 - August 2018)
-  - Location: Kabul Province, Afghanistan
-  - Responsibilities: Meeting coordination, shipping and receiving under US aviation standards, inventory management, translation of MD530 training materials
+## 🔬 Some of My Best Projects
+Here are a few noteworthy projects that I have worked on:
 
-### Education
-- **The University of Alabama in Huntsville**
-  - Bachelor's degree, Computer Science with Mathematics Minor (January 2022 - December 2023)
-- **Kardan University**
-  - Bachelor's degree, Computer Science (2018 - 2021)
-  - Diploma, English Language and Literature, General (2016 - 2017)
-- **Osman Waris Private High School**
-  - High School Graduate, General (2004 - 2015)
+### CS499Vacuum
+- A repository focused on vacuum simulations using C#.
+- Applying physics principles to create realistic simulations.
+- Demonstrates my proficiency in C# programming.
 
-### Project
-- **Robot Vacuum Simulation Project**: The Robot Vacuum Simulation Project is a comprehensive tool designed to evaluate and enhance robot vacuum algorithms. This simulation allows users to create customizable home environments, configure various vacuum attributes, and run real-time simulations to analyze performance. Users can adjust house layouts, vacuum paths, and observe cleaning efficiency through detailed visual and analytical results. The project, built using Unity, provides a platform for testing and improving both software and hardware aspects of robot vacuums, making it easier to refine cleaning algorithms and optimize performance in diverse settings.
+### Computer-Science
+- Compilation of resources related to computer science education.
+- Curating materials from different sources to enhance learning experience.
 
-### Certifications
-- **CompTIA A+ (in progress)**
-- **CompTIA Network+ (in progress)**
+### 30-Days-of-Python
+- A repository hosting beginner-friendly Python exercises and tutorials.
+- Helps beginners learn the basics of Python programming.
 
-### Interests
-- **Hobbies:** Swimming, Hiking, and Basketball.
-- **Professional Interests:** Enterprise Resource Planning, Costpoint, Service Automation, Cybersecurity, DoD Procurement and Supply Chain Management.
+### Cyber-Security
+- Exploring various aspects of cybersecurity.
+- Raising awareness and sharing security-related resources.
 
-### Contributions
-- Contributed to the UAH ACM student chapter's official website by developing and maintaining the source code.
-- Implemented and refined the website structure, adhering to best practices for HTML, CSS, and JavaScript.
-- Created personal project folders following the standard format, ensuring organized and efficient management of web assets.
-- Submitted and reviewed pull requests to the Beta branch, collaborating with other members to ensure high-quality updates.
-- Provided mentorship and guidance on project setup and web development techniques to fellow members.
----
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/khushal-noori-537763156) for collaboration or inquiries.
+### Web-Portfolio
+- Showcase of my web development skills and projects.
+- Includes personal projects and collaborations.
+
+## 🤝 Let's Connect
+- LinkedIn: [K Noori](https://www.linkedin.com/in/knoori)
+- Gmail: knoori@university.edu
+
+Feel free to reach out to me if you have any questions, suggestions or would like to collaborate on future projects. I'm always excited to connect with fellow developers!
+
