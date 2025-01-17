@@ -1,7 +1,5 @@
-# HeaderImage
-
 ## Hi there 👋
-I'm K Noori, a computer science major with a passion for problem-solving and programming.
+I'm Khushal Noori, a computer science major and minor mathematics with a passion for problem-solving and programming.
 
 ### 🤟 About Me
 - 🌱 Computer Science Major with a Minor in Mathematics
@@ -63,8 +61,7 @@ Here are a few noteworthy projects that I have worked on:
 - Includes personal projects and collaborations.
 
 ## 🤝 Let's Connect
-- LinkedIn: [K Noori](https://www.linkedin.com/in/knoori)
-- Gmail: knoori@university.edu
-
-Feel free to reach out to me if you have any questions, suggestions or would like to collaborate on future projects. I'm always excited to connect with fellow developers!
+- LinkedIn: [Khushal Noori]([https://www.linkedin.com/in/knoori](https://www.linkedin.com/in/khushal-noori-537763156/))
+- Gmail: khushal.noori2015@gmail.com
+-  free to reach out to me if you have any questions, suggestions or would like to collaborate on future projects. I'm always excited to connect with fellow developers!
 
