@@ -33,9 +33,6 @@ Here are some key skills and technologies that I have experience with:
 - Utilized Java in personal projects, showcasing a diverse skill set.
 - Worked on object-oriented projects and applications using Java.
 
-## 📊 GitHub Stats
-![Github Stats](URL-to-Github-Stats)
-
 ## 🔬 Some of My Best Projects
 Here are a few noteworthy projects that I have worked on:
 
